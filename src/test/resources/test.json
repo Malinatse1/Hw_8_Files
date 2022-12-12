@@ -1,0 +1,13 @@
+{
+  "email": "test@test.com",
+  "password": "12345",
+  "company": "DNS",
+  "firstname": "Test",
+  "lastname": "User",
+  "phone": "322-223",
+  "level": 20,
+  "lang": "English",
+  "active": 0,
+  "department": "Head",
+  "emp_id": "123456"
+}
